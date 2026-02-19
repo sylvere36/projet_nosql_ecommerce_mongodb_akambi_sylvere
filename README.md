@@ -1,7 +1,7 @@
 # 🛒 Projet NoSQL — Migration E-Commerce vers MongoDB
 
 **Projet NoSQL — Base de données E-Commerce**  
-**Auteur** : Olouwashègun Sylvère Akambi  
+**Auteur** : Olouwashègun Sylvère AKAMBI  
 **INE** : ET5337424
 **SGBD choisi** : MongoDB 7.0 (famille Document)
 

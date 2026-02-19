@@ -2,7 +2,7 @@
 =============================================================================
  Requêtes MongoDB — Projet Base de données NoSQL
 =============================================================================
- Auteur  : Olouwashègun Sylvère Akambi
+ Auteur  : Olouwashègun Sylvère AKAMBI
  INE    : ET5337424
  SGBD    : MongoDB 7.0 (famille Document)
  
