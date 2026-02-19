@@ -1,0 +1,20 @@
+[
+    {"category_id": 1, "category_department_id": 1, "category_name": "Smartphones"},
+    {"category_id": 2, "category_department_id": 1, "category_name": "Ordinateurs portables"},
+    {"category_id": 3, "category_department_id": 1, "category_name": "Accessoires électroniques"},
+    {"category_id": 4, "category_department_id": 1, "category_name": "Tablettes"},
+    {"category_id": 5, "category_department_id": 2, "category_name": "Vêtements homme"},
+    {"category_id": 6, "category_department_id": 2, "category_name": "Vêtements femme"},
+    {"category_id": 7, "category_department_id": 2, "category_name": "Chaussures"},
+    {"category_id": 8, "category_department_id": 3, "category_name": "Meubles"},
+    {"category_id": 9, "category_department_id": 3, "category_name": "Décoration"},
+    {"category_id": 10, "category_department_id": 3, "category_name": "Jardinage"},
+    {"category_id": 11, "category_department_id": 4, "category_name": "Fitness"},
+    {"category_id": 12, "category_department_id": 4, "category_name": "Sports d'extérieur"},
+    {"category_id": 13, "category_department_id": 5, "category_name": "Romans"},
+    {"category_id": 14, "category_department_id": 5, "category_name": "Sciences & Tech"},
+    {"category_id": 15, "category_department_id": 6, "category_name": "Épicerie fine"},
+    {"category_id": 16, "category_department_id": 6, "category_name": "Boissons"},
+    {"category_id": 17, "category_department_id": 7, "category_name": "Soins visage"},
+    {"category_id": 18, "category_department_id": 7, "category_name": "Parfums"}
+]
