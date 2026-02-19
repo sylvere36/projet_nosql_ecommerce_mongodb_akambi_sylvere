@@ -3,7 +3,7 @@
  Requêtes MongoDB — Projet Base de données NoSQL
 =============================================================================
  Auteur  : Olouwashègun Sylvère Akambi
- Date    : Février 2026
+ INE    : ET5337424
  SGBD    : MongoDB 7.0 (famille Document)
  
  Description :

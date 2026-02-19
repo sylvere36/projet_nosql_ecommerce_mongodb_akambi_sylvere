@@ -1,8 +1,8 @@
 # Rapport Technique — Migration E-Commerce vers MongoDB
 
 **Projet NoSQL — Base de données E-Commerce**  
-**Auteur** : Sylvère Akambi  
-**Date** : Février 2026  
+**Auteur** : Olouwashègun Sylvère Akambi  
+**INE** : ET5337424
 **SGBD choisi** : MongoDB 7.0 (famille Document)
 
 ---

@@ -1,5 +1,10 @@
 # 🛒 Projet NoSQL — Migration E-Commerce vers MongoDB
 
+**Projet NoSQL — Base de données E-Commerce**  
+**Auteur** : Olouwashègun Sylvère Akambi  
+**INE** : ET5337424
+**SGBD choisi** : MongoDB 7.0 (famille Document)
+
 > Migration d'une base relationnelle e-commerce (6 tables) vers MongoDB avec dénormalisation, script Python et 10 requêtes optimisées.
 
 ---
@@ -31,7 +36,7 @@
 ### 1. Cloner le projet
 
 ```bash
-git clone <url-du-repo> projet_nosql_akambi_sylvere
+git clone https://github.com/sylvere36/projet_nosql_ecommerce_mongodb_akambi_sylvere.git projet_nosql_akambi_sylvere
 cd projet_nosql_akambi_sylvere
 ```
 

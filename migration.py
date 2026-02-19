@@ -3,9 +3,8 @@
  Script de Migration : Bases de données NoSQL → MongoDB
 =============================================================================
  Auteur  : Olouwashègun Sylvère Akambi
- INE    : Février 2026
- Projet  : Migration NoSQL - Base de données e-commerce
- SGBD    : MongoDB (famille Document)
+ INE    : ET5337424
+ SGBD    : MongoDB 7.0 (famille Document)
  
  Description :
    Ce script migre les données d'un schéma relationnel (6 tables) vers
